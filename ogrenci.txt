@@ -1,0 +1,4 @@
+1,betul,keskin,3,20,kadın
+2,enes,bayraktutan,3,22,erkek
+4,ela,sakin,4,22,kadın
+5,kerem,sahin,4,27,erkek
