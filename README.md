@@ -5,10 +5,10 @@ Python Soru Çözümleri
 ![1 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/1bb6af0c-2a70-48e6-abf9-df2a38ebf919)
 
 **2.soru**
-![9 2 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/b2921250-85bc-4332-a97b-30728f62b5fe)
+![2 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/3d3630a2-6959-4ed1-9d62-a315c41dc9f6)
 
 **3.soru**
-![3 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/d6f5494b-3d5d-44c3-80b2-5474f8d58f0e)
+
 
 **4.soru**
 ![4 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/72c7ae04-37b7-4b04-8f8b-9b5982361fa5)
