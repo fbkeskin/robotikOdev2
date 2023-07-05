@@ -2,8 +2,7 @@
 Python Soru Çözümleri
 
 **1.soru**
-![Screenshot from 2023-06-30 14-56-07](https://github.com/fbkeskin/odev2/assets/92950254/8e367c4d-dd0a-44ae-bbe2-c8a1ab629c92)
-
+![1 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/1bb6af0c-2a70-48e6-abf9-df2a38ebf919)
 
 **2.soru**
 ![Screenshot from 2023-06-30 16-17-41](https://github.com/fbkeskin/odev2/assets/92950254/40fcb585-b851-4fe6-a90c-e9b83bab8a2c)
