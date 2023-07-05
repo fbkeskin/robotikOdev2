@@ -1,9 +1,6 @@
 # robotikOdev2
 Python Soru Çözümleri
 
-# Robotik Ödev 2
-Python Soru Çözümleri
-
 **1.soru**
 ![Screenshot from 2023-06-30 14-56-07](https://github.com/fbkeskin/odev2/assets/92950254/8e367c4d-dd0a-44ae-bbe2-c8a1ab629c92)
 
@@ -22,8 +19,11 @@ Python Soru Çözümleri
 
 **5.soru**
 ![Screenshot from 2023-07-02 14-17-41](https://github.com/fbkeskin/robotikOdev2/assets/92950254/b293d5fc-44d7-47a8-8cfb-7edcbdcc3168)
+
 ![Screenshot from 2023-07-02 14-11-52](https://github.com/fbkeskin/odev2/assets/92950254/8ba1ff2a-fa2e-4950-abd3-c4c41eccd117)
+
 ![Screenshot from 2023-07-02 14-17-04](https://github.com/fbkeskin/odev2/assets/92950254/88cb5174-f4c3-429c-b2b6-6cbc2d44da6b)
+
 ![Screenshot from 2023-07-02 14-17-04](https://github.com/fbkeskin/odev2/assets/92950254/5668b8e2-1557-4d26-99bf-f632ccdfcc4a)
 
 
