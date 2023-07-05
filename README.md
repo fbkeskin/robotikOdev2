@@ -5,37 +5,31 @@ Python Soru Çözümleri
 ![1 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/1bb6af0c-2a70-48e6-abf9-df2a38ebf919)
 
 **2.soru**
-![Screenshot from 2023-06-30 16-17-41](https://github.com/fbkeskin/odev2/assets/92950254/40fcb585-b851-4fe6-a90c-e9b83bab8a2c)
-
+![9 2 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/b2921250-85bc-4332-a97b-30728f62b5fe)
 
 **3.soru**
-![Screenshot from 2023-06-30 16-17-41](https://github.com/fbkeskin/odev2/assets/92950254/7b7b637d-fe1e-45b7-8631-1e4d67f725ac)
-
+![3 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/d6f5494b-3d5d-44c3-80b2-5474f8d58f0e)
 
 **4.soru**
-![Screenshot from 2023-07-01 13-07-23](https://github.com/fbkeskin/odev2/assets/92950254/0338b194-8bbf-4aea-8fa4-cc56d57eaabb)
-
+![4 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/72c7ae04-37b7-4b04-8f8b-9b5982361fa5)
 
 **5.soru**
 ![Screenshot from 2023-07-02 14-17-41](https://github.com/fbkeskin/robotikOdev2/assets/92950254/b293d5fc-44d7-47a8-8cfb-7edcbdcc3168)
 
-![Screenshot from 2023-07-02 14-11-52](https://github.com/fbkeskin/odev2/assets/92950254/8ba1ff2a-fa2e-4950-abd3-c4c41eccd117)
+![51 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/36847b2e-f95d-48ae-b485-ae00a84d2d4a)
 
-![Screenshot from 2023-07-02 14-17-04](https://github.com/fbkeskin/odev2/assets/92950254/88cb5174-f4c3-429c-b2b6-6cbc2d44da6b)
-
-![Screenshot from 2023-07-02 14-17-04](https://github.com/fbkeskin/odev2/assets/92950254/5668b8e2-1557-4d26-99bf-f632ccdfcc4a)
+![5 2 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/1be083bc-b0ef-48fb-aa4e-3667df86254f)
 
 
 **6.soru**
-![Screenshot from 2023-07-01 12-36-41](https://github.com/fbkeskin/odev2/assets/92950254/30ddd48e-f822-4e45-bbca-d91a6e95c982)
-
+![6 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/881d7330-0cd4-43d3-ae5e-fbbc93866371)
 
 **8.soru**
-![Screenshot from 2023-07-03 20-37-42](https://github.com/fbkeskin/odev2/assets/92950254/9805e180-23b5-47e5-b5b5-99a0f2649d7e)
+![8 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/3503012c-8493-419c-8821-0fb1bb67768a)
 
 **9.soru**
-![Screenshot from 2023-07-04 19-24-11](https://github.com/fbkeskin/odev2/assets/92950254/8275a9d9-65af-4864-9264-6bc024f4337c)
-![Screenshot from 2023-07-04 19-24-47](https://github.com/fbkeskin/odev2/assets/92950254/1e045ce3-ef3e-4141-b9ab-482ded2781a3)
+![9 1 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/48719abd-85b3-4b39-a58b-fe65ebf24af1)
+![9 2 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/b2921250-85bc-4332-a97b-30728f62b5fe)
 
 **10.soru**
-![Screenshot from 2023-07-04 19-42-13](https://github.com/fbkeskin/odev2/assets/92950254/a831d7a9-2f58-4ed2-aad4-19f0de5f2491)
+![10 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/847d0186-e8c2-4f96-9104-c85af837442a)
