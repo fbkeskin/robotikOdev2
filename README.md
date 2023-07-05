@@ -8,7 +8,7 @@ Python Soru Çözümleri
 ![2 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/3d3630a2-6959-4ed1-9d62-a315c41dc9f6)
 
 **3.soru**
-
+![soru3](https://github.com/fbkeskin/robotikOdev2/assets/92950254/cfed4852-214c-4e6a-ac9e-11e15d05978a)
 
 **4.soru**
 ![4 soru](https://github.com/fbkeskin/robotikOdev2/assets/92950254/72c7ae04-37b7-4b04-8f8b-9b5982361fa5)
